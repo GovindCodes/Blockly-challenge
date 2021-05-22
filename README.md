@@ -1,1 +1,3 @@
 # Blockly-challenge
+
+![](./sample.gif)
